@@ -10,7 +10,7 @@ When running a NavigationSplitView with double column on Apple Vision Pro, there
 
 ## What is currently happening:
 
-There's no default sidebar control, and when the window gets resized, the detail view is always the one being displayed. 
+There's no default sidebar control, and when the window gets resized, the detail view is always the one getting displayed. 
 
 ## Reproduction steps
 
