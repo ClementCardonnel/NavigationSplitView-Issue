@@ -19,5 +19,7 @@ There's no default sidebar control, and when the window gets resized, the detail
 
 ## Notes
 
-This issue was diagnosed using visionOS SDK Beta 2. 
-I was able to reproduce this issue on an actual Apple Vision Pro during a lab.
+- This issue was diagnosed using visionOS SDK Beta 2. 
+- I was able to reproduce this issue on an actual Apple Vision Pro during a lab.
+- This issue is also reproducible in the visionOS Simulator in Xcode Beta 6.
+- This issue could be related to FB12997837.
